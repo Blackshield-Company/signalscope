@@ -1,3 +1,5 @@
+![signalscope](.github/preview.png)
+
 # 📡 SignalScope
 
 A software-defined radio (SDR) spectrum analyzer with a retro oscilloscope UI. RTL-SDR support, waterfall display, signal recording, demodulation, peak detection, frequency markers, and a plugin system.
